@@ -1,5 +1,5 @@
-# <h1>Password-Generator<h1>
-  <hr>
+<h1>Password-Generator<h1>
+  
 
 <p>Um pequena atividade para aprender PHP.<br>
   
