@@ -1,0 +1,20 @@
+body{
+	background-color: grey;
+}
+
+#box {
+	width: 800px;
+	margin: auto;
+	padding: 10px;
+	border: 2px solid black;
+	border-radius:12px;
+	background-color: lightgrey;
+}
+
+label {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#botao {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
